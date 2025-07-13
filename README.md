@@ -11,7 +11,7 @@ Este repositorio contiene el código completo utilizado para entrenar y evaluar 
 - `Entrega4_v3_v3_day3lghbm.ipynb`
 - `Entrega4_v3_v3_day3rforest.ipynb`
 - `merged_energy_forecast_previous_day.csv`: dataset con variables meteorológicas y energía generada (`ene_gen_mwh`)
-- `requirements.txt`: archivo con las versiones exactas de Python y librerías utilizadas
+- `requerimientos_software.txt`: archivo con las versiones exactas de Python y librerías utilizadas
 
 ## 🚀 Cómo ejecutar los notebooks
 
